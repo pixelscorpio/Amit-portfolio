@@ -62,11 +62,12 @@ export default function Portfolio() {
           </a>
 
           <a
-            href="#"
-            className="px-5 py-2 border border-white rounded-lg"
-          >
-            LinkedIn
-          </a>
+  href="https://www.linkedin.com/in/amit-bajpai-35041117/"
+  target="_blank"
+  className="px-5 py-2 border border-white rounded-lg transition duration-300 hover:bg-white hover:text-black hover:shadow-[0_0_20px_rgba(255,255,255,0.6)]"
+>
+  LinkedIn
+</a>
         </div>
       </section>
 
@@ -223,11 +224,12 @@ export default function Portfolio() {
           </a>
 
           <a
-            href="#"
-            className="px-5 py-2 border border-white rounded-lg"
-          >
-            GitHub
-          </a>
+  href="https://github.com/bajpai30amit"
+  target="_blank"
+  className="px-5 py-2 border border-white rounded-lg transition duration-300 hover:bg-white hover:text-black hover:shadow-[0_0_20px_rgba(255,255,255,0.6)]"
+>
+  GitHub
+</a>
         </div>
       </section>
 
